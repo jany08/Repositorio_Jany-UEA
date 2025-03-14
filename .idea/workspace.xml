@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2b82aa-e67d-4688-8572-69a73d2a9afb" name="Changes" comment="Subiendo el código de temperaturas">
-      <change afterPath="$PROJECT_DIR$/semana12/registro de temperaturas diarias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semana13/temperaturas promedio.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/semana11/ordenacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/semana11/ordenacion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/semana12/ciudades .py" beforeDir="false" />
@@ -51,20 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Ordenacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.busqueda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ciudades .executor&quot;: &quot;Run&quot;,
-    &quot;Python.ordenacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temperaturas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ordenacion.executor": "Run",
+    "Python.busqueda.executor": "Run",
+    "Python.ciudades .executor": "Run",
+    "Python.ordenacion.executor": "Run",
+    "Python.temperaturas promedio.executor": "Run",
+    "Python.temperaturas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Python.ciudades ">
+}]]></component>
+  <component name="RunManager" selected="Python.temperaturas promedio">
     <configuration name="ciudades " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Repositorio_Jany-UEA" />
       <option name="ENV_FILES" value="" />
@@ -79,6 +80,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semana12/ciudades .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temperaturas promedio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Repositorio_Jany-UEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/semana13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semana13/temperaturas promedio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temperaturas promedio" />
         <item itemvalue="Python.ciudades " />
         <item itemvalue="Python.temperaturas" />
       </list>
@@ -164,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741374676031</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Subiendo el código de temperaturas">
+      <option name="closed" value="true" />
+      <created>1741494733619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741494733619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
