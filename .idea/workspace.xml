@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2b82aa-e67d-4688-8572-69a73d2a9afb" name="Changes" comment="Subiendo el código de temperaturas">
-      <change afterPath="$PROJECT_DIR$/semana13/temperaturas promedio.py" afterDir="false" />
+    <list default="true" id="2b2b82aa-e67d-4688-8572-69a73d2a9afb" name="Changes" comment="Calculo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semana11/ordenacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/semana11/ordenacion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semana12/ciudades .py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/semana12/temperaturas.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Python.temperaturas promedio">
@@ -80,6 +76,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semana12/ciudades .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ordenacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Repositorio_Jany-UEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/semana11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semana11/ordenacion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +153,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.temperaturas promedio" />
+        <item itemvalue="Python.ordenacion" />
         <item itemvalue="Python.ciudades " />
         <item itemvalue="Python.temperaturas" />
       </list>
@@ -196,7 +215,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741494733619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Subiendo el código de temperaturas">
+      <option name="closed" value="true" />
+      <created>1741967990449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741967990449</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Subiendo el código de temperaturas">
+      <option name="closed" value="true" />
+      <created>1741968161929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741968161929</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Subiendo el código de temperaturas">
+      <option name="closed" value="true" />
+      <created>1741968762841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741968762842</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CalculoDescuentoPython">
+      <option name="closed" value="true" />
+      <created>1742265436576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742265436576</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Calculo">
+      <option name="closed" value="true" />
+      <created>1742265514577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742265514577</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +272,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Subiendo el código de temperaturas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subiendo el código de temperaturas" />
+    <MESSAGE value="CalculoDescuentoPython" />
+    <MESSAGE value="Calculo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculo" />
   </component>
 </project>
